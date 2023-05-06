@@ -9,5 +9,6 @@ public class App {
         System.out.println("hello git gyf hotfix first modify");
         System.out.println("hotfix的第一次修改");
         System.out.println("master的第一次修改");
+        System.out.println("hello github gyf master first push github!");
     }
 }
