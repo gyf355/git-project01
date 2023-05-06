@@ -7,5 +7,6 @@ public class App {
         System.out.println("hello git gyf hotfix first commit");
         System.out.println("hello git gyf master first modify");
         System.out.println("hello git gyf hotfix first modify");
+        System.out.println("hotfix的第一次修改");
     }
 }
